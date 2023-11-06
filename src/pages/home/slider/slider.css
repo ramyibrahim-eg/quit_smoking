@@ -1,0 +1,64 @@
+.image-slider {
+  width: 100%;
+  height: 60vh;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  transition: transform 0.5s ease-in-out;
+  margin: 5rem auto;
+}
+.image-slider::after {
+  content: "";
+  position: absolute;
+  background: transparent;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.slider-image {
+  object-fit: cover;
+  display: none;
+}
+
+.active {
+  display: block;
+}
+.fade {
+  animation-name: fade;
+  animation-duration: 2s;
+}
+
+@keyframes fade {
+  from {
+    opacity: 0.4;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+p.currentImage_length {
+  position: absolute;
+  background: #1111119e;
+  color: #fff;
+  padding: 5px;
+  font-size: 2.3rem;
+  border-radius: 0 0 10px 0;
+}
+
+@media screen and (max-width: 768px) {
+  .image-slider {
+    width: 100%;
+    height: 30vh;
+    overflow: hidden;
+    position: relative;
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+    margin: 5rem auto;
+  }
+  p.currentImage_length {
+    font-size: 1rem;
+  }
+}
