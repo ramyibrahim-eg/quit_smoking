@@ -69,5 +69,30 @@ To get started with this project, you need to have Node.js and npm (Node Package
 - `vite.config.js`: Vite configuration file.
 ## ScreenShots
 
+![Alt Text](https://quit-smoking.disgin.website/screenshot/1.webp)
 ![Alt Text]()
+![Alt Text]()
+
+![Alt Text]()
+
+![Alt Text]()
+
+![Alt Text]()
+
+![Alt Text]()
+
+![Alt Text]()
+
+![Alt Text]()
+
+![Alt Text]()
+
+![Alt Text]()
+
+![Alt Text]()
+
+![Alt Text]()
+
+![Alt Text]()
+
 
