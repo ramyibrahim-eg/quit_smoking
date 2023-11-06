@@ -69,30 +69,16 @@ To get started with this project, you need to have Node.js and npm (Node Package
 - `vite.config.js`: Vite configuration file.
 ## ScreenShots
 
-![Alt Text](https://quit-smoking.disgin.website/screenshot/1.webp)
+![Alt Text](https://quit-smoking.disgin.website/screenshot/new/homePage.png)
 
-![Alt Text](https://quit-smoking.disgin.website/screenshot/2.webp)
+![Alt Text](https://quit-smoking.disgin.website/screenshot/new/footer-scroll.png)
 
-![Alt Text](https://quit-smoking.disgin.website/screenshot/3.webp)
+![Alt Text](https://quit-smoking.disgin.website/screenshot/new/toastF.png)
 
-![Alt Text](https://quit-smoking.disgin.website/screenshot/4.webp)
+![Alt Text](https://quit-smoking.disgin.website/screenshot/new/signup.png)
 
-![Alt Text](https://quit-smoking.disgin.website/screenshot/5.webp)
+![Alt Text](https://quit-smoking.disgin.website/screenshot/new/contactus.png)
 
-![Alt Text](https://quit-smoking.disgin.website/screenshot/6.webp)
+![Alt Text](https://quit-smoking.disgin.website/screenshot/new/profile.png)
 
-![Alt Text](https://quit-smoking.disgin.website/screenshot/7.webp)
 
-![Alt Text](https://quit-smoking.disgin.website/screenshot/8.webp)
-
-![Alt Text](https://quit-smoking.disgin.website/screenshot/9.webp)
-
-![Alt Text](https://quit-smoking.disgin.website/screenshot/10.webp)
-
-![Alt Text](https://quit-smoking.disgin.website/screenshot/11.webp)
-
-![Alt Text](https://quit-smoking.disgin.website/screenshot/12.webp)
-
-![Alt Text](https://quit-smoking.disgin.website/screenshot/13.webp)
-
-![Alt Text](https://quit-smoking.disgin.website/screenshot/14.webp)
