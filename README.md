@@ -81,4 +81,10 @@ To get started with this project, you need to have Node.js and npm (Node Package
 
 ![Alt Text](https://quit-smoking.disgin.website/screenshot/new/profile.png)
 
+![Alt Text](https://quit-smoking.disgin.website/screenshot/new/IMG_7640.png)
 
+![Alt Text](https://quit-smoking.disgin.website/screenshot/new/IMG_7641.png)
+
+![Alt Text](https://quit-smoking.disgin.website/screenshot/new/IMG_7643.png)
+
+![Alt Text](https://quit-smoking.disgin.website/screenshot/new/IMG_7644.png)
